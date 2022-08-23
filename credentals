@@ -1,0 +1,8 @@
+[dev]
+aws_access_key_id = AKIAV222
+aws_secret_access_key = 4Qc4vy+hpr8DH6ZcYkC9Dy
+
+
+[prod]
+aws_access_key_id = AKIAV222
+aws_secret_access_key = 4Qc4vy+hpr8DH6Z

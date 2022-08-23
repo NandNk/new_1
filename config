@@ -1,0 +1,8 @@
+[profile dev]
+region = us-west-2
+output = json
+
+
+[profile prod]
+region = us-west-2
+output = json
